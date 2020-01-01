@@ -1,0 +1,9 @@
+    1 //testing
+    2 #include<stdio.h>
+    3 int main()
+    4 {
+    5  /* multiline comment
+    6     continue
+    7  */
+    8  return 0;
+    9 }

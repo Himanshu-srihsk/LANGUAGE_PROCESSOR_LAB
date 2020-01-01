@@ -1,0 +1,14 @@
+http://2k8618.blogspot.com/2011/08/parser-for-switch-statements-with-if.html
+
+http://2k8618.blogspot.com/2011/08/parser-for-sql-query-select-yacc.html
+
+http://2k8618.blogspot.com/2011/09/parser-for-sql-nested-queries-compiler.html
+
+http://2k8618.blogspot.com/2011/08/parser-for-for-loop-statements-yacc.html
+
+http://2k8618.blogspot.com/2011/08/convert-lowercase-to-uppercase-reverse.html
+
+
+------------------------------------------------------------------------------------
+
+http://2k8618.blogspot.com/p/compiler-design-progams-lex-yacc.html
